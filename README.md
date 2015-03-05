@@ -206,6 +206,16 @@ Sahi is an open-source automation and testing tool for web applications
 	Price: Free (Pro Version $495/license)
 	Filename: install_sahi_v44_20130429.jar
 
+###Selenium IDE###
+
+The Selenium IDE is a Firefox plugin that allows for automating web applications for testing purposes.
+
+	Site: http://www.seleniumhq.org/
+	Price: Free
+	Filename: selenium-ide-2.8.0.xpi
+
+The Selenium IDE allows 
+
 ###Spotify###
 
 Spotify is a commercial music streaming service providing digital rights management-restricted content from record labels including Sony, EMI, Warner Music Group, and Universal.

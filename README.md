@@ -214,8 +214,6 @@ The Selenium IDE is a Firefox plugin that allows for automating web applications
 	Price: Free
 	Filename: selenium-ide-2.8.0.xpi
 
-The Selenium IDE allows 
-
 ###Spotify###
 
 Spotify is a commercial music streaming service providing digital rights management-restricted content from record labels including Sony, EMI, Warner Music Group, and Universal.
@@ -247,6 +245,14 @@ Tftpd64 is a free, opensource IPv6 ready application which includes DHCP, TFTP, 
 	Site: http://tftpd32.jounin.net/
 	Price: Free
 	Filename: Tftpd64-4.50-setup.exe
+
+###Tortoise Git###
+
+TortoiseGit is a Windows Shell Interface to Git and based on TortoiseSVN. It's open source and can fully be build with freely available software.
+
+	Site: https://code.google.com/p/tortoisegit/ 
+	Price: Free
+	Filename: TortoiseGit-1.8.13.0-64bit.msi
 
 ###TrueCrypt###
 

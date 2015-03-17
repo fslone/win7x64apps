@@ -78,6 +78,14 @@ Mozilla Firefox is a free and open-source web browser.
 	Price: Free
 	Filename: Firefox Setup Stub 23.0.1.exe
 
+###FTDI Driver###
+
+Driver for chips made by Future Technology Devices International for connecting devices serial connections to modern computers via USB.
+	
+	Site: http://www.ftdichip.com/Drivers/VCP.htm
+	Price: Free
+	Filename: CDM v2.12.00 WHQL Certified.exe
+
 ###Gimp###
 
 GIMP is the GNU Image Manipulation Program.
@@ -245,6 +253,14 @@ Tftpd64 is a free, opensource IPv6 ready application which includes DHCP, TFTP, 
 	Site: http://tftpd32.jounin.net/
 	Price: Free
 	Filename: Tftpd64-4.50-setup.exe
+
+###Thunderbird###
+
+Tftpd64 is a free, opensource IPv6 ready application which includes DHCP, TFTP, DNS, SNTP and Syslog servers as well as a TFTP client.
+
+	Site: https://www.mozilla.org/thunderbird/
+	Price: Free
+	Filename: Thunderbird Setup 31.5.0.exe
 
 ###Tortoise Git###
 

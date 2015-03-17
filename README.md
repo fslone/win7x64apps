@@ -4,7 +4,7 @@
 System installer files for development environment on Windows 7 machine with x86 chip architecture.
 
 
-**Date: 03/05/15**
+**Date: 03/17/15**
 
 ###7Zip###
 
@@ -80,7 +80,7 @@ Mozilla Firefox is a free and open-source web browser.
 
 ###FTDI Driver###
 
-Driver for chips made by Future Technology Devices International for connecting devices serial connections to modern computers via USB.
+Driver for chips made by Future Technology Devices International for connecting devices with serial connections to modern computers via USB.
 	
 	Site: http://www.ftdichip.com/Drivers/VCP.htm
 	Price: Free

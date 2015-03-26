@@ -1,8 +1,7 @@
 #win7x86apps#
 ===========
 
-System installer files for development environment on Windows 7 machine with x86 chip architecture.
-
+System installer files for my development environment on a 64-bit Windows 7 machine.
 
 **Date: 03/26/15**
 
@@ -85,6 +84,14 @@ Mozilla Firefox is a free and open-source web browser.
 	Site: http://www.mozilla.org/en-US/
 	Price: Free
 	Filename: Firefox Setup Stub 23.0.1.exe
+
+###Flowdock###
+
+Flowdock is a team collaboration app for desktop, mobile & web. 
+	
+	Site: https://www.flowdock.com/
+	Price: Free
+	Filename: Install Flowdock.exe
 
 ###FTDI Driver###
 

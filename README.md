@@ -213,6 +213,14 @@ Opera is a web browser developed by Opera Software.
 	Price: Free
 	Filename: Opera_16.0.1196.73_Setup.exe
 
+###Provider for Google Calendar###
+
+Allows bidirectional access to Google Calendar from Thunderbird + Lightning.
+
+	Site: https://addons.mozilla.org/en-US/thunderbird/addon/provider-for-google-calendar/
+	Price: Free
+	Filename: provider_for_google_calendar-1.0.4-sm+tb.xpi
+
 ###Python###
 
 Python is a widely used general-purpose, high-level programming language.

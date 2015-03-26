@@ -4,7 +4,7 @@
 System installer files for development environment on Windows 7 machine with x86 chip architecture.
 
 
-**Date: 03/17/15**
+**Date: 03/26/15**
 
 ###7Zip###
 
@@ -62,13 +62,21 @@ Executor is a multi purpose launcher and a more advanced and customizable versio
 	Price: Free
 	Filename: ExecutorSetup.exe
 
-###Filezilla###
+###Filezilla Client###
 
 FileZilla Client is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.
 	
 	Site: https://filezilla-project.org/
 	Price: Free
 	Filename: FileZilla_3.8.0_win32-setup [1].exe
+
+###Firebug###
+
+Firebug integrates with Firefox to allow you to edit, debug, and monitor CSS, HTML, and JavaScript live in any web page
+	
+	Site: http://getfirebug.com/
+	Price: Free
+	Filename: firebug-2.0.8-fx.xpi
 
 ###Firefox###
 
@@ -101,6 +109,14 @@ Git is a free and open source distributed version control system designed to han
 	Site: http://git-scm.com/
 	Price: Free
 	Filename: Git-1.8.3-preview20130601.exe
+
+###Internet Explorer###
+
+Internet Explorer is the shittiest thing to ever happen to the internet.
+	
+	Site: http://windows.microsoft.com/en-us/internet-explorer/download-ie
+	Price: Free
+	Filename: IE11-Windows6.1.exe
 
 ###Iron Python###
 
@@ -174,6 +190,14 @@ Node.js is an open source, cross-platform runtime environment for server-side an
 	Price: Free
 	Filename: node-v0.10.28-x86.msi
 
+###Notepad++###
+
+Notepad++ is a free source code editor and Notepad replacement that supports several languages.
+
+	Site: http://notepad-plus-plus.org/
+	Price: Free
+	Filename: npp.6.7.5.Installer.exe
+
 ###Opera###
 
 Opera is a web browser developed by Opera Software.
@@ -222,6 +246,14 @@ The Selenium IDE is a Firefox plugin that allows for automating web applications
 	Price: Free
 	Filename: selenium-ide-2.8.0.xpi
 
+###Skype###
+
+A telecommunications application software that specializes in providing video chat and voice calls from computers, tablets and mobile devices via the Internet to other devices or telephones/smartphones.
+
+	Site: http://www.skype.com/
+	Price: Freemium
+	Filename: SkypeSetup.exe
+
 ###Spotify###
 
 Spotify is a commercial music streaming service providing digital rights management-restricted content from record labels including Sony, EMI, Warner Music Group, and Universal.
@@ -261,6 +293,14 @@ Tftpd64 is a free, opensource IPv6 ready application which includes DHCP, TFTP, 
 	Site: https://www.mozilla.org/thunderbird/
 	Price: Free
 	Filename: Thunderbird Setup 31.5.0.exe
+
+###Thunderbird Lightning Calendar###
+
+Project to provide the functionality of the Sunbird calendar application as a Thunderbird extension
+
+	Site: https://www.mozilla.org/en-US/projects/calendar/
+	Price: Free
+	Filename: lightning-3.3.3-tb+sm-windows.xpi
 
 ###Tortoise Git###
 

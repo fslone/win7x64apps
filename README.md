@@ -1,9 +1,9 @@
-#win7x86apps#
+#win7x64apps#
 ===========
 
-System installer files for my development environment on a 64-bit Windows 7 machine.
+System installer files for the development environment on my x64 Windows 7 machine.
 
-**Date: 03/26/15**
+**Date: 04/16/15**
 
 ###7Zip###
 

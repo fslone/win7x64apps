@@ -3,7 +3,7 @@
 
 System installer files for the development environment on my x64 Windows 7 machine.
 
-**Date: 04/16/15**
+**Date: 04/17/15**
 
 ###7Zip###
 
@@ -220,6 +220,14 @@ Allows bidirectional access to Google Calendar from Thunderbird + Lightning.
 	Site: https://addons.mozilla.org/en-US/thunderbird/addon/provider-for-google-calendar/
 	Price: Free
 	Filename: provider_for_google_calendar-1.0.4-sm+tb.xpi
+
+###PuTTY###
+
+PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+
+	Site: http://www.putty.org/
+	Price: Free
+	Filename: putty.zip
 
 ###Python###
 

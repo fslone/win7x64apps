@@ -53,6 +53,14 @@ Google Chrome is a browser that combines a minimal design with sophisticated tec
 	Price: Free
 	Filename: ChromeSetup.exe
 
+###Code::Blocks###
+
+Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users.
+
+	Site: http://www.codeblocks.org/
+	Price: Free
+	Filename: codeblocks-13.12-setup.exe
+
 ###Executor###
 
 Executor is a multi purpose launcher and a more advanced and customizable version of windows run.

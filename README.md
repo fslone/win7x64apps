@@ -3,7 +3,7 @@
 
 System installer files for the development environment on my x64 Windows 7 machine.
 
-**Date: 04/17/15**
+**Date: 05/04/15**
 
 ###7Zip###
 
@@ -68,6 +68,14 @@ Executor is a multi purpose launcher and a more advanced and customizable versio
 	Site: http://executor.dk/
 	Price: Free
 	Filename: ExecutorSetup.exe
+
+###ffdshow###
+
+ffdshow is a codec mainly used for decoding of video in the MPEG-4 ASP (e.g. encoded with DivX or Xvid) and H.264/MPEG-4 AVC video formats.
+	
+	Site: http://ffdshow-tryout.sourceforge.net/
+	Price: Free
+	Filename: ffdshow_rev4532_20140717_clsid.exe
 
 ###Filezilla Client###
 
@@ -220,6 +228,14 @@ Opera is a web browser developed by Opera Software.
 	Site: http://www.opera.com/
 	Price: Free
 	Filename: Opera_16.0.1196.73_Setup.exe
+
+###ONVIF Device Conformance Test Tool###
+
+Test tool for verifying that a device conforms to Profile S of the Open Network Video Interface Forum (ONVIF) specification.
+
+	Site: http://www.onvif.org/
+	Price: Free
+	Filename: ONVIF_Device_TestTool_v.14.12.zip
 
 ###Provider for Google Calendar###
 

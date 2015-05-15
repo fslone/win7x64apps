@@ -205,6 +205,14 @@ A simple toolkit for UI designers & programmers to measure screen elements in pi
 	Price: Free
 	Filename: MezerSetup.exe
 
+###nmap###
+
+Nmap ("Network Mapper") is a free and open source utility for network discovery and security auditing.
+	
+	Site: http://nmap.org/
+	Price: Free
+	Filename: nmap-6.47-setup.exe
+
 ###Node###
 
 Node.js is an open source, cross-platform runtime environment for server-side and networking applications.

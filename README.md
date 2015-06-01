@@ -261,13 +261,29 @@ PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the 
 	Price: Free
 	Filename: putty.zip
 
-###Python###
+###PyQt###
+
+PyQt is a set of Python v2 and v3 bindings for Digia's Qt application framework
+
+	Site: http://www.riverbankcomputing.com/software/pyqt/intro
+	Price: Free
+	Filename: PyQt5-5.4.1-gpl-Py3.4-Qt5.4.1-x32.exe
+
+###Python 2###
 
 Python is a widely used general-purpose, high-level programming language.
 	
 	Site: https://www.python.org/
 	Price: Free
 	Filename: python-2.7.5.amd64.msi
+
+###Python 3###
+
+Python is a widely used general-purpose, high-level programming language.
+	
+	Site: https://www.python.org/
+	Price: Free
+	Filename: python-3.4.3.msi
 
 ###Ruby###
 

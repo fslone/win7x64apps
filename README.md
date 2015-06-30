@@ -133,6 +133,14 @@ Git is a free and open source distributed version control system designed to han
 	Price: Free
 	Filename: Git-1.8.3-preview20130601.exe
 
+###Gyazo###
+
+Gyazo allows you to capture short gifs of bugs, etc. for sharing with QA.
+
+	Site: https://gyazo.com/ 
+	Price: Free
+	Filename: Gyazo-2.4.exe
+
 ###Internet Explorer###
 
 Internet Explorer is the shittiest thing to ever happen to the internet.
@@ -260,6 +268,14 @@ PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the 
 	Site: http://www.putty.org/
 	Price: Free
 	Filename: putty.zip
+
+###PyInstaller-2.1###
+
+PyInstaller is a program that packages Python programs into stand-alone executables under Windows, Linux, Mac OS X, AIX and Solaris. Its main advantages over similar tools are that PyInstaller works with any version of Python since 2.3, it builds smaller executables thanks to transparent compression, it is fully multi-platform, and uses the OS support to load the dynamic libraries, thus ensuring full compatibility.
+
+	Site: PyInstaller-2.1.zip
+	Price: Free
+	Filename: PyQt5-5.4.1-gpl-Py3.4-Qt5.4.1-x32.exe
 
 ###PyQt###
 

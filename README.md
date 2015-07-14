@@ -133,6 +133,15 @@ Git is a free and open source distributed version control system designed to han
 	Price: Free
 	Filename: Git-1.8.3-preview20130601.exe
 
+
+###Go###
+
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+
+	Site: https://golang.org/
+	Price: Free
+	Filename: go1.4.2.windows-amd64.zip
+	
 ###Gyazo###
 
 Gyazo allows you to capture short gifs of bugs, etc. for sharing with QA.

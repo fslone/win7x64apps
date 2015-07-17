@@ -309,6 +309,14 @@ Python is a widely used general-purpose, high-level programming language.
 	Price: Free
 	Filename: python-3.4.3.msi
 
+###PyYAML###
+
+YAML implementation for Python.
+
+	Site: http://pyyaml.org/
+	Price: Free
+	Filename: PyYAML-3.11.win-amd64-py2.7.exe
+
 ###Ruby###
 
 Ruby is a dynamic, reflective, object-oriented, general-purpose programming language.

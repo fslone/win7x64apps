@@ -29,6 +29,14 @@ Apache Tomcat is an open source software implementation of the Java Servlet and 
 	Price: Free
 	Filename: apache-tomcat-8.0.0-RC1-deployer.zip
 
+###Armitage###
+
+Cyber attack management for Metasploit.
+
+	Site: http://www.fastandeasyhacking.com/
+	Price: Free
+	Filename: armitage141120.zip
+
 ###Beyond Compare###
 
 Beyond Compare allows you to quickly and easily compare your files and folders.

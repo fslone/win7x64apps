@@ -37,6 +37,14 @@ Cyber attack management for Metasploit.
 	Price: Free
 	Filename: armitage141120.zip
 
+###BeEF###
+
+A penetration testing tool that focuses on the web browser.
+
+	Site: http://www.beefproject.com/
+	Price: Free
+	Filename: beef-beef-0.4.6.1.zip
+
 ###Beyond Compare###
 
 Beyond Compare allows you to quickly and easily compare your files and folders.

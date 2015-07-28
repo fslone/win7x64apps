@@ -413,13 +413,13 @@ Tftpd64 is a free, opensource IPv6 ready application which includes DHCP, TFTP, 
 	Price: Free
 	Filename: Thunderbird Setup 31.5.0.exe
 
-###Thunderbird Lightning Calendar###
+###Tor###
 
-Project to provide the functionality of the Sunbird calendar application as a Thunderbird extension
+Tor is free software for enabling anonymous communication
 
-	Site: https://www.mozilla.org/en-US/projects/calendar/
+	Site: https://www.torproject.org/
 	Price: Free
-	Filename: lightning-3.3.3-tb+sm-windows.xpi
+	Filename: torbrowser-install-4.5.3_en-US.exe
 
 ###Tortoise Git###
 
